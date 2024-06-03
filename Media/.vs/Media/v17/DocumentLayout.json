@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Media\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17D692D0-D76E-4D3D-8584-56E60167C652}|Media\\Media.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\media\\media\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17D692D0-D76E-4D3D-8584-56E60167C652}|Media\\Media.csproj|solutionrelative:media\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17D692D0-D76E-4D3D-8584-56E60167C652}|Media\\Media.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\media\\media\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17D692D0-D76E-4D3D-8584-56E60167C652}|Media\\Media.csproj|solutionrelative:media\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Media\\Media\\Form1.cs",
+              "RelativeDocumentMoniker": "Media\\Form1.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Media\\Media\\Form1.cs",
+              "RelativeToolTip": "Media\\Form1.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA8wCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:23:35.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Media\\Media\\Form1.cs",
+              "RelativeDocumentMoniker": "Media\\Form1.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Media\\Media\\Form1.cs [Design]",
+              "RelativeToolTip": "Media\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T08:04:06.858Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
