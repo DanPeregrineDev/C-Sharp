@@ -19,36 +19,44 @@ namespace OperadoresAritmeticos
 
         private void BT_Calculate_Click(object sender, EventArgs e)
         {
-            string option = CB_Operadores.Text;
-            int n1 = int.Parse(TB_N1.Text);
-            int n2 = int.Parse(TB_N2.Text);
-
-            int result = 0;
-            
-            switch(option)
+            try
             {
-                case "+":
-                    result = n1 + n2;
-                    break;
+                string option = CB_Operadores.Text;
+                int n1 = int.Parse(TB_N1.Text);
+                int n2 = int.Parse(TB_N2.Text);
 
-                case "-":
-                    result = n1 - n2;
-                    break;
+                int result = 0;
 
-                case "*":
-                    result = n1 * n2;
-                    break;
+                switch (option)
+                {
+                    case "+":
+                        result = n1 + n2;
+                        break;
 
-                case "/":
-                    result = n1 / n2;
-                    break;
+                    case "-":
+                        result = n1 - n2;
+                        break;
 
-                default:
-                    MessageBox.Show("Nenhum operador selecionado", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    break;
+                    case "*":
+                        result = n1 * n2;
+                        break;
+
+                    case "/":
+                        result = n1 / n2;
+                        break;
+
+                    default:
+                        MessageBox.Show("Nenhum operador selecionado", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        break;
+                }
+
+                TB_Result.Text = result.ToString();
             }
-
-            TB_Result.Text = result.ToString();
+            catch (Exception ex)
+            {
+                MessageBox.Show("Ocurreu um erro: " + ex.Message, "ERRO", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            
         }
     }
 }
