@@ -15,6 +15,8 @@ namespace OperadoresAritmeticos
         public Form1()
         {
             InitializeComponent();
+
+            CB_Operadores.SelectedIndex = 0;
         }
 
         private void BT_Calculate_Click(object sender, EventArgs e)
@@ -57,6 +59,16 @@ namespace OperadoresAritmeticos
                 MessageBox.Show("Ocurreu um erro: " + ex.Message, "ERRO", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult Response = MessageBox.Show("Tem a certeza que quer fechar o programa?", "Tem a certeza", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
+            if (Response == DialogResult.No)
+            {
+                e.Cancel = true;
+            }
         }
     }
 }

@@ -41,6 +41,7 @@
             this.TB_N1.Name = "TB_N1";
             this.TB_N1.Size = new System.Drawing.Size(100, 20);
             this.TB_N1.TabIndex = 0;
+            this.TB_N1.Text = "0";
             // 
             // CB_Operadores
             // 
@@ -62,6 +63,7 @@
             this.TB_N2.Name = "TB_N2";
             this.TB_N2.Size = new System.Drawing.Size(100, 20);
             this.TB_N2.TabIndex = 2;
+            this.TB_N2.Text = "0";
             // 
             // BT_Calculate
             // 
@@ -77,6 +79,7 @@
             // 
             this.TB_Result.Location = new System.Drawing.Point(319, 28);
             this.TB_Result.Name = "TB_Result";
+            this.TB_Result.ReadOnly = true;
             this.TB_Result.Size = new System.Drawing.Size(100, 20);
             this.TB_Result.TabIndex = 4;
             // 
@@ -95,6 +98,7 @@
             this.Name = "Form1";
             this.ShowIcon = false;
             this.Text = "Calculadora";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -103,10 +107,10 @@
         #endregion
 
         private System.Windows.Forms.TextBox TB_N1;
-        private System.Windows.Forms.ComboBox CB_Operadores;
         private System.Windows.Forms.TextBox TB_N2;
         private System.Windows.Forms.Button BT_Calculate;
         private System.Windows.Forms.TextBox TB_Result;
+        private System.Windows.Forms.ComboBox CB_Operadores;
     }
 }
 
