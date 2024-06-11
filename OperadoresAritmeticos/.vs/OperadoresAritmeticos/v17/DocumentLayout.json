@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\OperadoresAritmeticos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5280B71-6741-4356-AB08-C5F2B81F6652}|OperadoresAritmeticos\\OperadoresAritmeticos.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\operadoresaritmeticos\\operadoresaritmeticos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5280B71-6741-4356-AB08-C5F2B81F6652}|OperadoresAritmeticos\\OperadoresAritmeticos.csproj|solutionrelative:operadoresaritmeticos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E5280B71-6741-4356-AB08-C5F2B81F6652}|OperadoresAritmeticos\\OperadoresAritmeticos.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\OperadoresAritmeticos\\operadoresaritmeticos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E5280B71-6741-4356-AB08-C5F2B81F6652}|OperadoresAritmeticos\\OperadoresAritmeticos.csproj|solutionrelative:operadoresaritmeticos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5280B71-6741-4356-AB08-C5F2B81F6652}|OperadoresAritmeticos\\OperadoresAritmeticos.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\operadoresaritmeticos\\operadoresaritmeticos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5280B71-6741-4356-AB08-C5F2B81F6652}|OperadoresAritmeticos\\OperadoresAritmeticos.csproj|solutionrelative:operadoresaritmeticos\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +26,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\OperadoresAritmeticos\\OperadoresAritmeticos\\Form1.cs",
               "RelativeDocumentMoniker": "OperadoresAritmeticos\\Form1.cs",
@@ -39,14 +39,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\OperadoresAritmeticos\\OperadoresAritmeticos\\Form1.cs",
               "RelativeDocumentMoniker": "OperadoresAritmeticos\\Form1.cs",
               "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\OperadoresAritmeticos\\OperadoresAritmeticos\\Form1.cs [Design]",
               "RelativeToolTip": "OperadoresAritmeticos\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T09:49:35.454Z"
+              "WhenOpened": "2024-06-05T09:49:35.454Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
