@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Check Radio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63ACCCC2-79EC-4959-BD32-6FE3345DF2EE}|Check Radio\\Check Radio.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Check Radio\\check radio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63ACCCC2-79EC-4959-BD32-6FE3345DF2EE}|Check Radio\\Check Radio.csproj|solutionrelative:check radio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63ACCCC2-79EC-4959-BD32-6FE3345DF2EE}|Check Radio\\Check Radio.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\check radio\\check radio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63ACCCC2-79EC-4959-BD32-6FE3345DF2EE}|Check Radio\\Check Radio.csproj|solutionrelative:check radio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Check Radio\\Check Radio\\Form1.cs",
+              "RelativeDocumentMoniker": "Check Radio\\Form1.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Check Radio\\Check Radio\\Form1.cs",
+              "RelativeToolTip": "Check Radio\\Form1.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwE0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:40:23.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Check Radio\\Check Radio\\Form1.cs",
+              "RelativeDocumentMoniker": "Check Radio\\Form1.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Check Radio\\Check Radio\\Form1.cs [Design]",
+              "RelativeToolTip": "Check Radio\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T14:09:54.405Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
