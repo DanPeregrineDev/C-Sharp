@@ -141,6 +141,11 @@
             // 
             this.NUD_QUANTITY.Font = new System.Drawing.Font("Nunito", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.NUD_QUANTITY.Location = new System.Drawing.Point(516, 47);
+            this.NUD_QUANTITY.Minimum = new decimal(new int[] {
+            1,
+            0,
+            0,
+            0});
             this.NUD_QUANTITY.Name = "NUD_QUANTITY";
             this.NUD_QUANTITY.Size = new System.Drawing.Size(101, 36);
             this.NUD_QUANTITY.TabIndex = 10;
