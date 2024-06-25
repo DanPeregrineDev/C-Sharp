@@ -76,7 +76,7 @@
             // 
             this.LB_LeapYear.AutoSize = true;
             this.LB_LeapYear.Font = new System.Drawing.Font("Nunito", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LB_LeapYear.Location = new System.Drawing.Point(12, 180);
+            this.LB_LeapYear.Location = new System.Drawing.Point(12, 150);
             this.LB_LeapYear.Name = "LB_LeapYear";
             this.LB_LeapYear.Size = new System.Drawing.Size(0, 22);
             this.LB_LeapYear.TabIndex = 4;
@@ -95,7 +95,7 @@
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.ShowIcon = false;
-            this.Text = "Form1";
+            this.Text = "Calculate Age";
             this.ResumeLayout(false);
             this.PerformLayout();
 
