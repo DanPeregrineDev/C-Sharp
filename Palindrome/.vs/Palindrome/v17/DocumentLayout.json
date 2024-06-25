@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{9EC3C33B-D28D-4E6D-9B57-6ED640DA8649}|Palindrome\\Palindrome.csproj|solutionrelative:palindrome\\f_splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EC3C33B-D28D-4E6D-9B57-6ED640DA8649}|Palindrome\\Palindrome.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\palindrome\\palindrome\\f_splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9EC3C33B-D28D-4E6D-9B57-6ED640DA8649}|Palindrome\\Palindrome.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Palindrome\\palindrome\\f_splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9EC3C33B-D28D-4E6D-9B57-6ED640DA8649}|Palindrome\\Palindrome.csproj|solutionrelative:palindrome\\f_splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EC3C33B-D28D-4E6D-9B57-6ED640DA8649}|Palindrome\\Palindrome.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\palindrome\\palindrome\\f_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9EC3C33B-D28D-4E6D-9B57-6ED640DA8649}|Palindrome\\Palindrome.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Palindrome\\palindrome\\f_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9EC3C33B-D28D-4E6D-9B57-6ED640DA8649}|Palindrome\\Palindrome.csproj|solutionrelative:palindrome\\f_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EC3C33B-D28D-4E6D-9B57-6ED640DA8649}|Palindrome\\Palindrome.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\palindrome\\palindrome\\f_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9EC3C33B-D28D-4E6D-9B57-6ED640DA8649}|Palindrome\\Palindrome.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Palindrome\\palindrome\\f_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EC3C33B-D28D-4E6D-9B57-6ED640DA8649}|Palindrome\\Palindrome.csproj|solutionrelative:palindrome\\f_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,8 +54,7 @@
               "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Palindrome\\Palindrome\\F_Splash.cs [Design]",
               "RelativeToolTip": "Palindrome\\F_Splash.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T09:16:18.361Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-25T09:16:18.361Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "Palindrome\\F_Main.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAUwCYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T09:07:47.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T09:07:47.666Z"
             },
             {
               "$type": "Document",
@@ -79,8 +77,7 @@
               "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Palindrome\\Palindrome\\F_Main.cs [Design]",
               "RelativeToolTip": "Palindrome\\F_Main.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T08:47:15.942Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-25T08:47:15.942Z"
             }
           ]
         }
