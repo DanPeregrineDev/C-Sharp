@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Mastermind\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68A2A580-CECC-4CC5-8D3C-0C4D2B9B943D}|Mastermind\\Mastermind.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\mastermind\\mastermind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68A2A580-CECC-4CC5-8D3C-0C4D2B9B943D}|Mastermind\\Mastermind.csproj|solutionrelative:mastermind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68A2A580-CECC-4CC5-8D3C-0C4D2B9B943D}|Mastermind\\Mastermind.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Mastermind\\mastermind\\f_about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{68A2A580-CECC-4CC5-8D3C-0C4D2B9B943D}|Mastermind\\Mastermind.csproj|solutionrelative:mastermind\\f_about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A2A580-CECC-4CC5-8D3C-0C4D2B9B943D}|Mastermind\\Mastermind.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\mastermind\\mastermind\\f_about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A2A580-CECC-4CC5-8D3C-0C4D2B9B943D}|Mastermind\\Mastermind.csproj|solutionrelative:mastermind\\f_about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68A2A580-CECC-4CC5-8D3C-0C4D2B9B943D}|Mastermind\\Mastermind.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Mastermind\\mastermind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{68A2A580-CECC-4CC5-8D3C-0C4D2B9B943D}|Mastermind\\Mastermind.csproj|solutionrelative:mastermind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68A2A580-CECC-4CC5-8D3C-0C4D2B9B943D}|Mastermind\\Mastermind.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Mastermind\\mastermind\\f_about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{68A2A580-CECC-4CC5-8D3C-0C4D2B9B943D}|Mastermind\\Mastermind.csproj|solutionrelative:mastermind\\f_about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{68A2A580-CECC-4CC5-8D3C-0C4D2B9B943D}|Mastermind\\Mastermind.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\mastermind\\mastermind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A2A580-CECC-4CC5-8D3C-0C4D2B9B943D}|Mastermind\\Mastermind.csproj|solutionrelative:mastermind\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,38 +34,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "F_ABOUT.cs",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Mastermind\\Mastermind\\F_ABOUT.cs",
+              "RelativeDocumentMoniker": "Mastermind\\F_ABOUT.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Mastermind\\Mastermind\\F_ABOUT.cs",
+              "RelativeToolTip": "Mastermind\\F_ABOUT.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAArwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:39:08.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "F_ABOUT.cs [Design]",
               "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Mastermind\\Mastermind\\F_ABOUT.cs",
               "RelativeDocumentMoniker": "Mastermind\\F_ABOUT.cs",
               "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Mastermind\\Mastermind\\F_ABOUT.cs [Design]",
               "RelativeToolTip": "Mastermind\\F_ABOUT.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T08:12:17.129Z"
+              "WhenOpened": "2024-06-24T08:12:17.129Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Mastermind\\Mastermind\\Form1.cs",
               "RelativeDocumentMoniker": "Mastermind\\Form1.cs",
               "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Mastermind\\Mastermind\\Form1.cs",
               "RelativeToolTip": "Mastermind\\Form1.cs",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAqwFEAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-13T13:46:35.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Mastermind\\Mastermind\\Form1.cs",
               "RelativeDocumentMoniker": "Mastermind\\Form1.cs",
               "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Mastermind\\Mastermind\\Form1.cs [Design]",
               "RelativeToolTip": "Mastermind\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T13:38:31.037Z"
+              "WhenOpened": "2024-06-13T13:38:31.037Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Palindrome\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9EC3C33B-D28D-4E6D-9B57-6ED640DA8649}|Palindrome\\Palindrome.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\palindrome\\palindrome\\f_splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EC3C33B-D28D-4E6D-9B57-6ED640DA8649}|Palindrome\\Palindrome.csproj|solutionrelative:palindrome\\f_splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EC3C33B-D28D-4E6D-9B57-6ED640DA8649}|Palindrome\\Palindrome.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Palindrome\\palindrome\\f_splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9EC3C33B-D28D-4E6D-9B57-6ED640DA8649}|Palindrome\\Palindrome.csproj|solutionrelative:palindrome\\f_splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9EC3C33B-D28D-4E6D-9B57-6ED640DA8649}|Palindrome\\Palindrome.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\palindrome\\palindrome\\f_main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC3C33B-D28D-4E6D-9B57-6ED640DA8649}|Palindrome\\Palindrome.csproj|solutionrelative:palindrome\\f_main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9EC3C33B-D28D-4E6D-9B57-6ED640DA8649}|Palindrome\\Palindrome.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Palindrome\\palindrome\\f_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -17,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{9EC3C33B-D28D-4E6D-9B57-6ED640DA8649}|Palindrome\\Palindrome.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Palindrome\\palindrome\\f_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EC3C33B-D28D-4E6D-9B57-6ED640DA8649}|Palindrome\\Palindrome.csproj|solutionrelative:palindrome\\f_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC3C33B-D28D-4E6D-9B57-6ED640DA8649}|Palindrome\\Palindrome.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Palindrome\\palindrome\\f_splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EC3C33B-D28D-4E6D-9B57-6ED640DA8649}|Palindrome\\Palindrome.csproj|solutionrelative:palindrome\\f_splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC3C33B-D28D-4E6D-9B57-6ED640DA8649}|Palindrome\\Palindrome.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\palindrome\\palindrome\\f_splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EC3C33B-D28D-4E6D-9B57-6ED640DA8649}|Palindrome\\Palindrome.csproj|solutionrelative:palindrome\\f_splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,49 +39,65 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "F_Main.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Palindrome\\Palindrome\\F_Main.Designer.cs",
+              "RelativeDocumentMoniker": "Palindrome\\F_Main.Designer.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Palindrome\\Palindrome\\F_Main.Designer.cs",
+              "RelativeToolTip": "Palindrome\\F_Main.Designer.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T12:39:18.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "F_Splash.cs",
               "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Palindrome\\Palindrome\\F_Splash.cs",
               "RelativeDocumentMoniker": "Palindrome\\F_Splash.cs",
               "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Palindrome\\Palindrome\\F_Splash.cs",
               "RelativeToolTip": "Palindrome\\F_Splash.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-25T09:23:55.227Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "F_Splash.cs [Design]",
               "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Palindrome\\Palindrome\\F_Splash.cs",
               "RelativeDocumentMoniker": "Palindrome\\F_Splash.cs",
               "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Palindrome\\Palindrome\\F_Splash.cs [Design]",
               "RelativeToolTip": "Palindrome\\F_Splash.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T09:16:18.361Z"
+              "WhenOpened": "2024-06-25T09:16:18.361Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "F_Main.cs",
               "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Palindrome\\Palindrome\\F_Main.cs",
               "RelativeDocumentMoniker": "Palindrome\\F_Main.cs",
               "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Palindrome\\Palindrome\\F_Main.cs",
               "RelativeToolTip": "Palindrome\\F_Main.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAUwCYAAAAiAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvyYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T09:07:47.666Z"
+              "WhenOpened": "2024-06-25T09:07:47.666Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "F_Main.cs [Design]",
               "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Palindrome\\Palindrome\\F_Main.cs",
               "RelativeDocumentMoniker": "Palindrome\\F_Main.cs",
               "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Palindrome\\Palindrome\\F_Main.cs [Design]",
               "RelativeToolTip": "Palindrome\\F_Main.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T08:47:15.942Z"
+              "WhenOpened": "2024-06-25T08:47:15.942Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

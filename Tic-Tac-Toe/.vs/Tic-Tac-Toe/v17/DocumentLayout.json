@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{AF3C1089-F956-4C41-9A6B-7387DDF439B3}|Tic-Tac-Toe\\Tic-Tac-Toe.csproj|solutionrelative:tic-tac-toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF3C1089-F956-4C41-9A6B-7387DDF439B3}|Tic-Tac-Toe\\Tic-Tac-Toe.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\tic-tac-toe\\tic-tac-toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AF3C1089-F956-4C41-9A6B-7387DDF439B3}|Tic-Tac-Toe\\Tic-Tac-Toe.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Tic-Tac-Toe\\tic-tac-toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AF3C1089-F956-4C41-9A6B-7387DDF439B3}|Tic-Tac-Toe\\Tic-Tac-Toe.csproj|solutionrelative:tic-tac-toe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF3C1089-F956-4C41-9A6B-7387DDF439B3}|Tic-Tac-Toe\\Tic-Tac-Toe.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\tic-tac-toe\\tic-tac-toe\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF3C1089-F956-4C41-9A6B-7387DDF439B3}|Tic-Tac-Toe\\Tic-Tac-Toe.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Tic-Tac-Toe\\tic-tac-toe\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF3C1089-F956-4C41-9A6B-7387DDF439B3}|Tic-Tac-Toe\\Tic-Tac-Toe.csproj|solutionrelative:tic-tac-toe\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,8 +38,7 @@
               "RelativeToolTip": "Tic-Tac-Toe\\Form1.Designer.cs",
               "ViewState": "AQIAADMAAAAAAAAAAAArwEEAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T10:19:39.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-25T10:19:39.996Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\Tic-Tac-Toe\\Tic-Tac-Toe\\Form1.cs [Design]",
               "RelativeToolTip": "Tic-Tac-Toe\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T09:59:57.05Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-25T09:59:57.05Z"
             }
           ]
         }
