@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\VehicleClass\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D4350A1-EFDE-49F0-B571-04CE15742CEF}|VehicleClass\\VehicleClass.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\m09\\vehicleclass\\vehicleclass\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4350A1-EFDE-49F0-B571-04CE15742CEF}|VehicleClass\\VehicleClass.csproj|solutionrelative:vehicleclass\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D4350A1-EFDE-49F0-B571-04CE15742CEF}|VehicleClass\\VehicleClass.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\VehicleClass\\vehicleclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4350A1-EFDE-49F0-B571-04CE15742CEF}|VehicleClass\\VehicleClass.csproj|solutionrelative:vehicleclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D4350A1-EFDE-49F0-B571-04CE15742CEF}|VehicleClass\\VehicleClass.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\m09\\vehicleclass\\vehicleclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D4350A1-EFDE-49F0-B571-04CE15742CEF}|VehicleClass\\VehicleClass.csproj|solutionrelative:vehicleclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D4350A1-EFDE-49F0-B571-04CE15742CEF}|VehicleClass\\VehicleClass.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\m09\\vehicleclass\\vehicleclass\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D4350A1-EFDE-49F0-B571-04CE15742CEF}|VehicleClass\\VehicleClass.csproj|solutionrelative:vehicleclass\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +26,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\VehicleClass\\VehicleClass\\Vehicle.cs",
               "RelativeDocumentMoniker": "VehicleClass\\Vehicle.cs",
               "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\VehicleClass\\VehicleClass\\Vehicle.cs",
               "RelativeToolTip": "VehicleClass\\Vehicle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAATAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T11:58:40.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\VehicleClass\\VehicleClass\\Program.cs",
               "RelativeDocumentMoniker": "VehicleClass\\Program.cs",
               "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\VehicleClass\\VehicleClass\\Program.cs",
               "RelativeToolTip": "VehicleClass\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T11:48:28.578Z",
               "EditorCaption": ""

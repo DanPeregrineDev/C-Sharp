@@ -6,19 +6,31 @@ using System.Threading.Tasks;
 
 namespace VehicleClass
 {
+
     internal class Vehicle
     {
         // Caracteristics
-        string Brand;
-        string Model;
-        string Color;
-        string Plate;
+        public string Brand;
+        public string Model;
+        public string Color;
+        public string Plate;
 
-        int Year_Assembled;
-        int HorsePower;
-        int CylinderCapacity;
-        int NumberOfDoors;
-
+        public int Year_Assembled;
+        public int HorsePower;
+        public int CylinderCapacity;
+        public int NumberOfDoors;
+        
         // Behavior
+        public float CalculateVelocity(float Distance, float Time)
+        {
+            return (Distance / Time);
+        }
+
+        public void ShowInfo()
+        {
+            Console.WriteLine("The vehicle " + Brand + " " +  Model + " " + "has " + CylinderCapacity + " Cylinder Capacity");
+        }
+
     }
+
 }
