@@ -9,7 +9,7 @@ namespace PersonalTaskManager
     internal class Program
     {
         public static List<Task> Tasks = new List<Task>();
-        public static List<int> IDs = new List<int>();
+        public static int TaskNumber = 0;
 
         public static int Menu()
         {
@@ -20,8 +20,9 @@ namespace PersonalTaskManager
             Console.WriteLine("1 - Adicionar tarefa");
             Console.WriteLine("2 - Ver tarefas");
             Console.WriteLine("3 - Marcar como concluida");
-            Console.WriteLine("4 - Remover tarefa");
-            Console.WriteLine("5 - Sair\n");
+            Console.WriteLine("4 - Alterar data-limite");
+            Console.WriteLine("5 - Remover tarefa");
+            Console.WriteLine("6 - Sair\n");
 
             Console.Write("> ");
             int Selection = Convert.ToInt16(Console.ReadLine());
@@ -47,20 +48,15 @@ namespace PersonalTaskManager
             Console.Write("> ");
             string TaskContent = Console.ReadLine();
 
-            int ID = 0;
-
-            while ( IDs.Contains(ID))
-            {
-                ID++;
-            }
-
             Task newTask = new Task();
             
             newTask.Name = TaskName;
             newTask.ExpireDate = TaskExpireDate;
-            newTask.ID = ID;
+            newTask.ID = TaskNumber++;
             newTask.Content = TaskContent;
             newTask.IsCompleted = false;
+
+            TaskNumber = TaskNumber++;
 
             Tasks.Add(newTask);
         }
@@ -72,10 +68,36 @@ namespace PersonalTaskManager
 
             foreach (var task in Tasks)
             {
-                Console.WriteLine($"ID: {task.ID}, Nome: {task.Name}, Data: {task.ExpireDate}, Concluída: {task.IsCompleted}");
+                Console.WriteLine($"ID: {task.ID}, Nome: {task.Name}, Descrição: {task.Content}, Data: {task.ExpireDate}, Concluída: {task.IsCompleted}");
             }
 
             Console.ReadLine();
+        }
+
+        private static void UpdateDate()
+        {
+            foreach (var task in Tasks)
+            {
+                Console.WriteLine($"ID: {task.ID}, Nome: {task.Name}, Descrição: {task.Content}, Data: {task.ExpireDate}, Concluída: {task.IsCompleted}");
+            }
+
+            Console.WriteLine("\nQual o ID da tarefa?");
+
+            Console.Write("> ");
+            int TaskID = Convert.ToInt16(Console.ReadLine());
+
+            Console.WriteLine("\nNova Data");
+
+            Console.Write("> ");
+            string NewDate = Console.ReadLine();
+
+            foreach (var task in Tasks)
+            {
+                if (task.ID == TaskID)
+                {
+                    task.ExpireDate = NewDate;
+                }
+            }
         }
 
         private static void RemoveTask()
@@ -83,22 +105,36 @@ namespace PersonalTaskManager
             if (Tasks.Count < 1) return;
 
             Console.Clear();
-            ShowTasks();
+
+            foreach (var task in Tasks)
+            {
+                Console.WriteLine($"ID: {task.ID}, Nome: {task.Name}, Descrição: {task.Content}, Data: {task.ExpireDate}, Concluída: {task.IsCompleted}");
+            }
+
             Console.WriteLine("\nQual o ID da tarefa?");
 
             Console.Write("> ");
             int ID = Convert.ToInt16(Console.ReadLine());
 
+            Task taskToRemove = null;
+
             foreach (var task in Tasks)
             {
                 if (task.ID == ID)
                 {
-                    Tasks.Remove(task);
-                    IDs.Remove(task.ID);
+                    taskToRemove = task;
+                    break;
                 }
             }
 
-            Console.ReadLine();
+            if (taskToRemove != null)
+            {
+                Tasks.Remove(taskToRemove);
+            }
+            else
+            {
+                Console.WriteLine("Tarefa não encontrada.");
+            }
         }
 
         static void Main(string[] args)
@@ -110,7 +146,7 @@ namespace PersonalTaskManager
 
                 int Selection = Menu();
 
-                if (Selection > 0 && Selection < 6)
+                if (Selection > 0 && Selection < 7)
                 {
                     switch (Selection)
                     {
@@ -124,9 +160,12 @@ namespace PersonalTaskManager
                             RemoveTask();
                             break;
                         case 4:
-                            RemoveTask();
+                            UpdateDate();
                             break;
                         case 5:
+                            RemoveTask();
+                            break;
+                        case 6:
                             return;
                     }
                 }
