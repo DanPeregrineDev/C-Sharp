@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D55EED3E-AAB2-4949-B10B-51662F9C2398}</ProjectGuid>
+    <ProjectGuid>{9A2767A1-8293-4F60-9932-26BA2E14F86E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>LibraryManager</RootNamespace>
-    <AssemblyName>LibraryManager</AssemblyName>
+    <RootNamespace>HierarchyExemple</RootNamespace>
+    <AssemblyName>HierarchyExemple</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Book.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="User.cs" />
+    <Compile Include="Student.cs" />
+    <Compile Include="Teacher.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

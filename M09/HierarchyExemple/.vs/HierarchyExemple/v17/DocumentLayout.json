@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\HierarchyExemple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2767A1-8293-4F60-9932-26BA2E14F86E}|HierarchyExemple\\HierarchyExemple.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\m09\\hierarchyexemple\\hierarchyexemple\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2767A1-8293-4F60-9932-26BA2E14F86E}|HierarchyExemple\\HierarchyExemple.csproj|solutionrelative:hierarchyexemple\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2767A1-8293-4F60-9932-26BA2E14F86E}|HierarchyExemple\\HierarchyExemple.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\HierarchyExemple\\hierarchyexemple\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2767A1-8293-4F60-9932-26BA2E14F86E}|HierarchyExemple\\HierarchyExemple.csproj|solutionrelative:hierarchyexemple\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2767A1-8293-4F60-9932-26BA2E14F86E}|HierarchyExemple\\HierarchyExemple.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\HierarchyExemple\\hierarchyexemple\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2767A1-8293-4F60-9932-26BA2E14F86E}|HierarchyExemple\\HierarchyExemple.csproj|solutionrelative:hierarchyexemple\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2767A1-8293-4F60-9932-26BA2E14F86E}|HierarchyExemple\\HierarchyExemple.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\HierarchyExemple\\hierarchyexemple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2767A1-8293-4F60-9932-26BA2E14F86E}|HierarchyExemple\\HierarchyExemple.csproj|solutionrelative:hierarchyexemple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\HierarchyExemple\\HierarchyExemple\\Person.cs",
+              "RelativeDocumentMoniker": "HierarchyExemple\\Person.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\HierarchyExemple\\HierarchyExemple\\Person.cs",
+              "RelativeToolTip": "HierarchyExemple\\Person.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA2wCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:38:29.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\HierarchyExemple\\HierarchyExemple\\Student.cs",
+              "RelativeDocumentMoniker": "HierarchyExemple\\Student.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\HierarchyExemple\\HierarchyExemple\\Student.cs",
+              "RelativeToolTip": "HierarchyExemple\\Student.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA1wB8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:06:27.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\HierarchyExemple\\HierarchyExemple\\Teacher.cs",
+              "RelativeDocumentMoniker": "HierarchyExemple\\Teacher.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\HierarchyExemple\\HierarchyExemple\\Teacher.cs",
+              "RelativeToolTip": "HierarchyExemple\\Teacher.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:06:14.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\HierarchyExemple\\HierarchyExemple\\Program.cs",
+              "RelativeDocumentMoniker": "HierarchyExemple\\Program.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\HierarchyExemple\\HierarchyExemple\\Program.cs",
+              "RelativeToolTip": "HierarchyExemple\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:03:51.263Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

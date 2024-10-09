@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\SchoolManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B60733C-F1E8-4F30-90A7-635528B484A4}|SchoolManager\\SchoolManager.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\m09\\schoolmanager\\schoolmanager\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B60733C-F1E8-4F30-90A7-635528B484A4}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B60733C-F1E8-4F30-90A7-635528B484A4}|SchoolManager\\SchoolManager.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\m09\\schoolmanager\\schoolmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B60733C-F1E8-4F30-90A7-635528B484A4}|SchoolManager\\SchoolManager.csproj|solutionrelative:schoolmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\SchoolManager\\SchoolManager\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\Student.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\SchoolManager\\SchoolManager\\Student.cs",
+              "RelativeToolTip": "SchoolManager\\Student.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:27:39.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\SchoolManager\\SchoolManager\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolManager\\Program.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\SchoolManager\\SchoolManager\\Program.cs",
+              "RelativeToolTip": "SchoolManager\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T15:09:08.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
