@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\Desafio3\\FootballPlayerEx3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{622151E0-D072-4916-88C8-7B923C571DB1}|FootballPlayerEx3\\FootballPlayerEx3.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\m09\\desafio3\\footballplayerex3\\footballplayerex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622151E0-D072-4916-88C8-7B923C571DB1}|FootballPlayerEx3\\FootballPlayerEx3.csproj|solutionrelative:footballplayerex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622151E0-D072-4916-88C8-7B923C571DB1}|FootballPlayerEx3\\FootballPlayerEx3.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\m09\\desafio3\\footballplayerex3\\footballplayerex3\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622151E0-D072-4916-88C8-7B923C571DB1}|FootballPlayerEx3\\FootballPlayerEx3.csproj|solutionrelative:footballplayerex3\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\Desafio3\\FootballPlayerEx3\\FootballPlayerEx3\\Player.cs",
+              "RelativeDocumentMoniker": "FootballPlayerEx3\\Player.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\Desafio3\\FootballPlayerEx3\\FootballPlayerEx3\\Player.cs",
+              "RelativeToolTip": "FootballPlayerEx3\\Player.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAWwBgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:50:01.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\Desafio3\\FootballPlayerEx3\\FootballPlayerEx3\\Program.cs",
+              "RelativeDocumentMoniker": "FootballPlayerEx3\\Program.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\Desafio3\\FootballPlayerEx3\\FootballPlayerEx3\\Program.cs",
+              "RelativeToolTip": "FootballPlayerEx3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:49:29.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
