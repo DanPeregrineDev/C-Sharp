@@ -2,24 +2,24 @@ using System;
 
 namespace TicketEx4
 {
-    public class VIPTicket:Ticket
+    public class VipTicket:Ticket
     {
         // Properties
         
-        public double extraValue {get; set;}
+        double ExtraValue {get; set;}
         
         // Constructor
 
-        public VIPTicket(double value, double extraValue) : base(value)
+        public VipTicket(double value, double extraValue) : base(value)
         {
-            this.extraValue = extraValue;
+            this.ExtraValue = extraValue;
         }
         
         // Methods
 
         public double GetTotalValue()
         {
-            return this.value + this.extraValue;
+            return this.Value + this.ExtraValue;
         }
 
         public void ShowTotalValue()

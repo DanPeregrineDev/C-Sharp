@@ -11,7 +11,7 @@ namespace TicketEx4
         static void Main(string[] args)
         {
             Ticket basicTicket = new Ticket(25);
-            VIPTicket vipTicket = new VIPTicket(30, 5);
+            VipTicket vipTicket = new VipTicket(30, 5);
 
             basicTicket.ShowValue();
             vipTicket.ShowValue();

@@ -6,20 +6,20 @@ namespace TicketEx4
     {
         // Properties
 
-        public double value { get; set; }
+        protected double Value { get; set; }
 
         // Constructor
 
         public Ticket(double value)
         {
-            this.value = value;
+            this.Value = value;
         }
         
         // Methods
 
         public void ShowValue()
         {
-            Console.WriteLine("Valor do bilhete: " + this.value);
+            Console.WriteLine("Valor do bilhete: " + this.Value);
         }
     }
 }
