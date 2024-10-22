@@ -13,7 +13,6 @@ namespace ElevatorEx5
         
         public static int Menu()
         {
-            
             Console.Clear();
             
             Console.WriteLine($"Total floors: {elevator.GetTotalFloors()}");

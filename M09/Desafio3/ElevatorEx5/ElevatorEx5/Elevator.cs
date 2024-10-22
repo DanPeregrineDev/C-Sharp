@@ -9,7 +9,6 @@ namespace ElevatorEx5
         private int currentPeopleInside;
         
         // Gets
-        
         public int GetCurrentFloor() { return currentFloor; }
         public int GetTotalFloors() { return totalFloors; }
         public int GetMaxCapacity() { return maxCapacity; }
