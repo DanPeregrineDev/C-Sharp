@@ -62,6 +62,34 @@ namespace ProductsEx6
             this.priceCost = priceCost;
             this.priceSell = priceSell;
         }
+        
+        // Methods
+        private double verifyPositive(double number)
+        {
+            if (number < 0)
+            {
+                number = 0;
+                
+                return number;
+            }
+            else
+            {
+                return number;
+            }
+        }
+
+        private double verifySellValue(double priceSell, double priceCost)
+        {
+            if (priceSell < priceCost)
+            {
+                priceSell = 0;
+                return priceSell;
+            }
+            else
+            {
+                return priceSell;
+            }
+        }
     }
 }
 
