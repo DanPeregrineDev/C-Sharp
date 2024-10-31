@@ -18,17 +18,31 @@ namespace VehicleManager
         public string GetLicenceNumber() { return licenceNumber; }
         public string GetTaxId() { return taxId; }
         
-        // Sets
-        public void SetName(string name) { this.name = name; }
-        public void SetLicenceNumber(string licenceNumber) { this.licenceNumber = licenceNumber; }
-        public void SetTaxId(string taxId) { this.taxId = taxId; }
-        
         // Constructor
         public Owner(string name, string licenceNumber, string taxId)
         {
             this.name = name;
             this.licenceNumber = licenceNumber;
             this.taxId = taxId;
+        }
+        
+        // Methods
+        public int GetDigitNumber(int quotient)
+        {
+            int remainder;
+            int count;
+            
+            count = 0;
+
+            do
+            {
+                count++;
+                
+                quotient = quotient / 10;
+                remainder = quotient % 10;
+            } while (quotient != 0);
+            
+            return count;
         }
     }
 }

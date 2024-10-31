@@ -21,6 +21,8 @@ namespace VehicleManager
             
             Console.WriteLine($"\nMatricula: {car.GetPlate()}\nAno: {car.GetYear()}\n\nPropriatario:\n\nNome: {car.GetOwner().GetName()}\nNumero de carta de conducao: {car.GetOwner().GetLicenceNumber()}\nIdentificacao fiscal: {car.GetOwner().GetTaxId()}\n\nAutomovel:\n\nMarca: {car.GetBrand()}\nModelo: {car.GetModel()}\nTipo de combustivel: {car.GetFuelType()}\nMaximo de litros: {car.GetMaxLiters()}\nConsumo medio: {car.GetAvarageConsumption()}");
             
+            Console.WriteLine($"{vehicle.GetOwner().GetDigitNumber(11111)}");
+            
             Console.ReadLine();
         }
     }

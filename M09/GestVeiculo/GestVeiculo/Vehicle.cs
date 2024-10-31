@@ -20,11 +20,6 @@ namespace VehicleManager
         public int GetYear() { return year; }
         public Owner GetOwner() { return owner; }
         
-        // Sets
-        public void SetPlate(string plate) { this.plate = plate; }
-        public void SetYear(int year) { this.year = year; }
-        public void SetOwner(Owner owner) { this.owner = owner; }
-        
         // Constructor
         public Vehicle(string plate, int year, Owner owner)
         {

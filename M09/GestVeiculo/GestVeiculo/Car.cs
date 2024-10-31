@@ -42,7 +42,7 @@ namespace VehicleManager
             return range;
         }
 
-        public double FullRangeCost(Car car)
+        public double FullRangeCost(Car car) 
         {
             if (car.fuelType.ToLower() == "gasolina 98")
             {
