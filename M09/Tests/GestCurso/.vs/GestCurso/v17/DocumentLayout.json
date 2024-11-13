@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\Tests\\GestCurso\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E158DE7F-6548-453A-A991-6F9C4A69F867}|GestCurso\\GestCurso.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\Tests\\GestCurso\\gestcurso\\cursoprofissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E158DE7F-6548-453A-A991-6F9C4A69F867}|GestCurso\\GestCurso.csproj|solutionrelative:gestcurso\\cursoprofissional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E158DE7F-6548-453A-A991-6F9C4A69F867}|GestCurso\\GestCurso.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\m09\\tests\\gestcurso\\gestcurso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E158DE7F-6548-453A-A991-6F9C4A69F867}|GestCurso\\GestCurso.csproj|solutionrelative:gestcurso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E158DE7F-6548-453A-A991-6F9C4A69F867}|GestCurso\\GestCurso.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\Tests\\GestCurso\\gestcurso\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E158DE7F-6548-453A-A991-6F9C4A69F867}|GestCurso\\GestCurso.csproj|solutionrelative:gestcurso\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E158DE7F-6548-453A-A991-6F9C4A69F867}|GestCurso\\GestCurso.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\Tests\\GestCurso\\gestcurso\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E158DE7F-6548-453A-A991-6F9C4A69F867}|GestCurso\\GestCurso.csproj|solutionrelative:gestcurso\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CursoProfissional.cs",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\Tests\\GestCurso\\GestCurso\\CursoProfissional.cs",
+              "RelativeDocumentMoniker": "GestCurso\\CursoProfissional.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\Tests\\GestCurso\\GestCurso\\CursoProfissional.cs",
+              "RelativeToolTip": "GestCurso\\CursoProfissional.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:12:53.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Estudante.cs",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\Tests\\GestCurso\\GestCurso\\Estudante.cs",
+              "RelativeDocumentMoniker": "GestCurso\\Estudante.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\Tests\\GestCurso\\GestCurso\\Estudante.cs",
+              "RelativeToolTip": "GestCurso\\Estudante.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:52:00.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\Tests\\GestCurso\\GestCurso\\Curso.cs",
+              "RelativeDocumentMoniker": "GestCurso\\Curso.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\Tests\\GestCurso\\GestCurso\\Curso.cs",
+              "RelativeToolTip": "GestCurso\\Curso.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAzwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:51:42.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\Tests\\GestCurso\\GestCurso\\Program.cs",
+              "RelativeDocumentMoniker": "GestCurso\\Program.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M09\\Tests\\GestCurso\\GestCurso\\Program.cs",
+              "RelativeToolTip": "GestCurso\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:51:16.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

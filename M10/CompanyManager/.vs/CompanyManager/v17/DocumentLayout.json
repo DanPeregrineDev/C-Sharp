@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\CompanyManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5DAA59-283A-473F-8E1C-6E1311961417}|CompanyManager\\CompanyManager.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\m10\\companymanager\\companymanager\\adress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5DAA59-283A-473F-8E1C-6E1311961417}|CompanyManager\\CompanyManager.csproj|solutionrelative:companymanager\\adress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5DAA59-283A-473F-8E1C-6E1311961417}|CompanyManager\\CompanyManager.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\m10\\companymanager\\companymanager\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B5DAA59-283A-473F-8E1C-6E1311961417}|CompanyManager\\CompanyManager.csproj|solutionrelative:companymanager\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5DAA59-283A-473F-8E1C-6E1311961417}|CompanyManager\\CompanyManager.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\m10\\companymanager\\companymanager\\employeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5DAA59-283A-473F-8E1C-6E1311961417}|CompanyManager\\CompanyManager.csproj|solutionrelative:companymanager\\employeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B5DAA59-283A-473F-8E1C-6E1311961417}|CompanyManager\\CompanyManager.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\m10\\companymanager\\companymanager\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B5DAA59-283A-473F-8E1C-6E1311961417}|CompanyManager\\CompanyManager.csproj|solutionrelative:companymanager\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adress.cs",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\CompanyManager\\CompanyManager\\Adress.cs",
+              "RelativeDocumentMoniker": "CompanyManager\\Adress.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\CompanyManager\\CompanyManager\\Adress.cs",
+              "RelativeToolTip": "CompanyManager\\Adress.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:47:40.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\CompanyManager\\CompanyManager\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "CompanyManager\\EmployeeForm.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\CompanyManager\\CompanyManager\\EmployeeForm.cs [Design]",
+              "RelativeToolTip": "CompanyManager\\EmployeeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:59:30.472Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\CompanyManager\\CompanyManager\\EmployeeForm.Designer.cs",
+              "RelativeDocumentMoniker": "CompanyManager\\EmployeeForm.Designer.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\CompanyManager\\CompanyManager\\EmployeeForm.Designer.cs",
+              "RelativeToolTip": "CompanyManager\\EmployeeForm.Designer.cs",
+              "ViewState": "AQIAAFoBAAAAAAAAAAAnwGgBAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:58:39.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeForm.cs",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\CompanyManager\\CompanyManager\\EmployeeForm.cs",
+              "RelativeDocumentMoniker": "CompanyManager\\EmployeeForm.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\CompanyManager\\CompanyManager\\EmployeeForm.cs",
+              "RelativeToolTip": "CompanyManager\\EmployeeForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAnwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:58:30.316Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
