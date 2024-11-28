@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{0B5DAA59-283A-473F-8E1C-6E1311961417}|CompanyManager\\CompanyManager.csproj|solutionrelative:companymanager\\adress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B5DAA59-283A-473F-8E1C-6E1311961417}|CompanyManager\\CompanyManager.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\m10\\companymanager\\companymanager\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0B5DAA59-283A-473F-8E1C-6E1311961417}|CompanyManager\\CompanyManager.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\CompanyManager\\companymanager\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0B5DAA59-283A-473F-8E1C-6E1311961417}|CompanyManager\\CompanyManager.csproj|solutionrelative:companymanager\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B5DAA59-283A-473F-8E1C-6E1311961417}|CompanyManager\\CompanyManager.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\m10\\companymanager\\companymanager\\employeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B5DAA59-283A-473F-8E1C-6E1311961417}|CompanyManager\\CompanyManager.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\CompanyManager\\companymanager\\employeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B5DAA59-283A-473F-8E1C-6E1311961417}|CompanyManager\\CompanyManager.csproj|solutionrelative:companymanager\\employeeform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B5DAA59-283A-473F-8E1C-6E1311961417}|CompanyManager\\CompanyManager.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\m10\\companymanager\\companymanager\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B5DAA59-283A-473F-8E1C-6E1311961417}|CompanyManager\\CompanyManager.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\CompanyManager\\companymanager\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B5DAA59-283A-473F-8E1C-6E1311961417}|CompanyManager\\CompanyManager.csproj|solutionrelative:companymanager\\employeeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "CompanyManager\\Adress.cs",
               "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\CompanyManager\\CompanyManager\\Adress.cs",
               "RelativeToolTip": "CompanyManager\\Adress.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAowCIAAAABAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwCAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T15:47:40.596Z",
               "EditorCaption": ""
@@ -54,8 +54,7 @@
               "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\CompanyManager\\CompanyManager\\EmployeeForm.cs [Design]",
               "RelativeToolTip": "CompanyManager\\EmployeeForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T14:59:30.472Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-07T14:59:30.472Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "CompanyManager\\EmployeeForm.Designer.cs",
               "ViewState": "AQIAAFoBAAAAAAAAAAAnwGgBAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T14:58:39.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T14:58:39.358Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "CompanyManager\\EmployeeForm.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAnwBEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T14:58:30.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T14:58:30.316Z"
             }
           ]
         }

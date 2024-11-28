@@ -35,7 +35,7 @@ namespace GestCurso
         // Metodos
         public virtual string MostrarInfo()
         {
-            return $"Nome: {nome}\nNumero de identificação: {numeroIdentificacao}\nCurso: {GetCurso().GetNome()}";
+            return $"Nome: {nome}\nNumero de identificação: {numeroIdentificacao}\nCurso: {GetCurso().MostrarInfo()}";
         }
     }
 }

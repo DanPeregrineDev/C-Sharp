@@ -14,7 +14,27 @@ public class Adress
     public string Street { get; set; }
     public string Door { get; set; }
     public string Locality { get; set; }
-    public string PostalCode { get; set; }
+
+    public string PostalCode
+    {
+        get { return postalCode; }
+
+        set
+        {
+            if (verifyPostalCode(value) == true)
+            {
+                postalCode = value;
+            }
+        }
+    }
+
+    public Adress()
+    {
+        street = "";
+        door = "";
+        locality = "";
+        postalCode = "0000-000";
+    }
     
     // Constructor
     public Adress(string street, string door, string locality, string postalCode)
@@ -28,8 +48,8 @@ public class Adress
     // Methods
     public static bool verifyPostalCode(string postalCode)
     {
-        private string Default = @"\d{4}-\d{3}$";
+        string pattern = @"\d{4}-\d{3}$";
         
-        return Regex.IsMatch(postalCode, Default);
+        return Regex.IsMatch(postalCode, pattern);
     }
 }
