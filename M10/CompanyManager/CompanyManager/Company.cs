@@ -4,9 +4,9 @@ namespace CompanyManager;
 
 public static class Company
 {
-    private static BindingList<Employee> employees = new BindingList<Employee>();
+    public static BindingList<Employee> employees = new BindingList<Employee>();
 
-    public static string appName = "CompanyManager";
+    public static string appName = "Company Manager";
     public static string appVersion = "1.0";
 
     public static List<string> roles = new List<string>() { "Analyst", "Employee", "Programmer" };

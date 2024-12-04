@@ -8,12 +8,15 @@ public class Employee
 {
     // Atributes
     private static int autoId;
+    
+    protected int ID;
 
-    public int idValue
+    public int valueId
     {
-        get {return autoId;}
+        get { return ID; }
     }
-
+    
+    
     public string abreviatedName
     {
         get {return GetAbreviatedName(name);}
@@ -24,6 +27,8 @@ public class Employee
         get { return adress.Locality; }
     }
     
+    public string Role { get { return GetRole(); } }
+    
     private string name;
     
     private DateTime birthday;
@@ -32,8 +37,6 @@ public class Employee
     private string phone;
     
     private Adress adress = new Adress();
-    
-    private static int id;
 
     
     // Gets and Gets
@@ -84,20 +87,20 @@ public class Employee
             }
         }
     }
-    public string Role { get { return GetRole(); } }
-    public int ID { get; set; }
+    
     public DateTime Birthday { get; set; }
     
     // Constructor
     public Employee(string name, string email, string phone, Adress adress, DateTime birthday)
     {
+        
         this.name = name;
         this.email = email;
         this.phone = phone;
         this.adress = adress;
         this.birthday = birthday;
         
-        autoId++;
+        ID = ++autoId;
     }
 
     public Employee(string name) : this(name, "", "", new Adress(), DateTime.Now)
