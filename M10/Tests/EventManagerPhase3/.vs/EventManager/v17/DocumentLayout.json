@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\Tests\\EventManagerPhase3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6744800-436F-4002-A3C6-6240DBC7DB79}|EventoTecnologia\\EventManager.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\Tests\\EventManagerPhase3\\eventotecnologia\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6744800-436F-4002-A3C6-6240DBC7DB79}|EventoTecnologia\\EventManager.csproj|solutionrelative:eventotecnologia\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6744800-436F-4002-A3C6-6240DBC7DB79}|EventoTecnologia\\EventManager.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\Tests\\EventManagerPhase3\\eventotecnologia\\addparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6744800-436F-4002-A3C6-6240DBC7DB79}|EventoTecnologia\\EventManager.csproj|solutionrelative:eventotecnologia\\addparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6744800-436F-4002-A3C6-6240DBC7DB79}|EventoTecnologia\\EventManager.csproj|c:\\users\\madei_pfh9t6q\\documents\\coding\\c-sharp\\m10\\tests\\eventmanagerphase3\\eventotecnologia\\addparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6744800-436F-4002-A3C6-6240DBC7DB79}|EventoTecnologia\\EventManager.csproj|solutionrelative:eventotecnologia\\addparticipant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6744800-436F-4002-A3C6-6240DBC7DB79}|EventoTecnologia\\EventManager.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\Tests\\EventManagerPhase3\\eventotecnologia\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6744800-436F-4002-A3C6-6240DBC7DB79}|EventoTecnologia\\EventManager.csproj|solutionrelative:eventotecnologia\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6744800-436F-4002-A3C6-6240DBC7DB79}|EventoTecnologia\\EventManager.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\Tests\\EventManagerPhase3\\eventotecnologia\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6744800-436F-4002-A3C6-6240DBC7DB79}|EventoTecnologia\\EventManager.csproj|solutionrelative:eventotecnologia\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6744800-436F-4002-A3C6-6240DBC7DB79}|EventoTecnologia\\EventManager.csproj|C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\Tests\\EventManagerPhase3\\eventotecnologia\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6744800-436F-4002-A3C6-6240DBC7DB79}|EventoTecnologia\\EventManager.csproj|solutionrelative:eventotecnologia\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "addParticipant.cs",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\Tests\\EventManagerPhase3\\EventoTecnologia\\addParticipant.cs",
+              "RelativeDocumentMoniker": "EventoTecnologia\\addParticipant.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\Tests\\EventManagerPhase3\\EventoTecnologia\\addParticipant.cs",
+              "RelativeToolTip": "EventoTecnologia\\addParticipant.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:25:19.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "addParticipant.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\Tests\\EventManagerPhase3\\EventoTecnologia\\addParticipant.cs",
+              "RelativeDocumentMoniker": "EventoTecnologia\\addParticipant.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\Tests\\EventManagerPhase3\\EventoTecnologia\\addParticipant.cs [Design]",
+              "RelativeToolTip": "EventoTecnologia\\addParticipant.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T12:19:43.642Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mainForm.cs",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\Tests\\EventManagerPhase3\\EventoTecnologia\\mainForm.cs",
+              "RelativeDocumentMoniker": "EventoTecnologia\\mainForm.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\Tests\\EventManagerPhase3\\EventoTecnologia\\mainForm.cs",
+              "RelativeToolTip": "EventoTecnologia\\mainForm.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwEoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T11:57:36.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\Tests\\EventManagerPhase3\\EventoTecnologia\\mainForm.cs",
+              "RelativeDocumentMoniker": "EventoTecnologia\\mainForm.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\Tests\\EventManagerPhase3\\EventoTecnologia\\mainForm.cs [Design]",
+              "RelativeToolTip": "EventoTecnologia\\mainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:47:53.674Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\Tests\\EventManagerPhase3\\EventoTecnologia\\Event.cs",
+              "RelativeDocumentMoniker": "EventoTecnologia\\Event.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\Tests\\EventManagerPhase3\\EventoTecnologia\\Event.cs",
+              "RelativeToolTip": "EventoTecnologia\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:47:55.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\Tests\\EventManagerPhase3\\EventoTecnologia\\Data.cs",
+              "RelativeDocumentMoniker": "EventoTecnologia\\Data.cs",
+              "ToolTip": "C:\\Users\\madei_pfh9t6q\\Documents\\Coding\\C-Sharp\\M10\\Tests\\EventManagerPhase3\\EventoTecnologia\\Data.cs",
+              "RelativeToolTip": "EventoTecnologia\\Data.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAEwAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:51:24.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

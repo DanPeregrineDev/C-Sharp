@@ -54,6 +54,7 @@ partial class CompanyManager
         BT_ViewEdit.TabIndex = 1;
         BT_ViewEdit.Text = "View Edit";
         BT_ViewEdit.UseVisualStyleBackColor = true;
+        BT_ViewEdit.Click += BT_ViewEdit_Click;
         // 
         // BT_New
         // 
@@ -63,6 +64,7 @@ partial class CompanyManager
         BT_New.TabIndex = 2;
         BT_New.Text = "New";
         BT_New.UseVisualStyleBackColor = true;
+        BT_New.Click += BT_New_Click;
         // 
         // BT_Remove
         // 
@@ -72,6 +74,7 @@ partial class CompanyManager
         BT_Remove.TabIndex = 3;
         BT_Remove.Text = "Remove";
         BT_Remove.UseVisualStyleBackColor = true;
+        BT_Remove.Click += BT_Remove_Click;
         // 
         // BT_Exit
         // 
@@ -105,8 +108,8 @@ partial class CompanyManager
     #endregion
 
     private System.Windows.Forms.DataGridView DG_01;
-    private Button BT_ViewEdit;
-    private Button BT_New;
-    private Button BT_Remove;
+    private System.Windows.Forms.Button BT_ViewEdit;
+    private System.Windows.Forms.Button BT_New;
+    private System.Windows.Forms.Button BT_Remove;
     private System.Windows.Forms.Button BT_Exit;
 }

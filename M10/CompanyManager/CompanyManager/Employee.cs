@@ -36,7 +36,7 @@ public class Employee
     private string email;
     private string phone;
     
-    private Adress adress = new Adress();
+    public Adress adress = new Adress();
 
     
     // Gets and Gets
@@ -170,5 +170,14 @@ public class Employee
         string pattern = @"[+][(]\d{1,4}[)]\d{9}$";
         
         return Regex.IsMatch(phone, pattern);
+    }
+
+    public object Clone()
+    {
+        Employee clone = (Employee)MemberwiseClone();
+        
+        clone.adress = new Adress(adress.Street, adress.Door, adress.Locality, adress.PostalCode);
+        
+        return clone;
     }
 }
