@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             GB_Evento = new GroupBox();
+            NUD_Age = new NumericUpDown();
             TB_Email = new TextBox();
             LB_02 = new Label();
             TB_Name = new TextBox();
@@ -36,7 +37,6 @@
             LB_01 = new Label();
             BT_Cancel = new Button();
             BT_Add = new Button();
-            NUD_Age = new NumericUpDown();
             GB_Evento.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)NUD_Age).BeginInit();
             SuspendLayout();
@@ -56,6 +56,13 @@
             GB_Evento.Size = new Size(500, 135);
             GB_Evento.TabIndex = 11;
             GB_Evento.TabStop = false;
+            // 
+            // NUD_Age
+            // 
+            NUD_Age.Location = new Point(71, 99);
+            NUD_Age.Name = "NUD_Age";
+            NUD_Age.Size = new Size(50, 23);
+            NUD_Age.TabIndex = 19;
             // 
             // TB_Email
             // 
@@ -122,13 +129,6 @@
             BT_Add.Text = "Add";
             BT_Add.UseVisualStyleBackColor = true;
             BT_Add.Click += BT_Add_Click;
-            // 
-            // NUD_Age
-            // 
-            NUD_Age.Location = new Point(71, 99);
-            NUD_Age.Name = "NUD_Age";
-            NUD_Age.Size = new Size(50, 23);
-            NUD_Age.TabIndex = 19;
             // 
             // addParticipant
             // 

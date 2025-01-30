@@ -4,6 +4,12 @@
     <Compile Update="addParticipant.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="createEvent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="editParticipant.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="mainForm.cs">
       <SubType>Form</SubType>
     </Compile>

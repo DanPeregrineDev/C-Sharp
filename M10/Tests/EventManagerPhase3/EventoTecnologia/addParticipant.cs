@@ -24,11 +24,26 @@ namespace EventManager
 
         private void BT_Add_Click(object sender, EventArgs e)
         {
-            Participant newParticipant = new Participant(TB_Name.Text, (int)NUD_Age.Value, TB_Email.Text);
-            Data.CurrentEvent.AddParticipant(newParticipant);
+            if (TB_Name.Text.Length == 0)
+            {
+                MessageBox.Show("Invalid Name", Data.appName, MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else if (TB_Email.Text.Length == 0)
+            {
+                MessageBox.Show("Invalid Email", Data.appName, MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else if (NUD_Age.Value < 16)
+            {
+                MessageBox.Show("Invalid age, cannot be under 16", Data.appName, MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            else
+            {
+                Participant newParticipant = new Participant(TB_Name.Text, (int)NUD_Age.Value, TB_Email.Text);
+                Data.currentEvent.AddParticipant(newParticipant);
 
-            this.DialogResult = DialogResult.OK;
-            this.Close();
+                this.DialogResult = DialogResult.OK;
+                this.Close();
+            }
         }
     }
 }

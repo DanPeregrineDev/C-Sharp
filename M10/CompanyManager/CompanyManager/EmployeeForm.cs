@@ -168,6 +168,12 @@ namespace CompanyManager
 
         private void updateDataEmployee()
         {
+            if (!ValidateChildren())
+            {
+                DialogResult = DialogResult.None;
+                return;
+            }
+
             if (employee == null)
             {
                 return;
@@ -220,8 +226,48 @@ namespace CompanyManager
             if (!Employee.isValidName(TB_Name.Text))
             {
                 e.Cancel = true;
-                EP_VerifyName.SetError(TB_Name, "Nome inválido. Deve conter 2 palavras e no minimo 7 caractéres");
+                EP_VerifyName.SetError(TB_Name, "Invalid name. it should contain at least 2 words and a minimum of 7 characters");
             }
+            else
+            {
+                EP_VerifyName = null;
+            }
+        }
+
+        private void TB_Email_Validating(object sender, CancelEventArgs e)
+        {
+            if (!Employee.isValidEmail(TB_Email.Text))
+            {
+                e.Cancel = true;
+                EP_VerifyEmail.SetError(TB_Email, "Invalid email. it should countain a '@'.");
+            }
+            else
+            {
+                EP_VerifyEmail = null;
+            }
+        }
+
+        private void TB_Phone_Validating(object sender, CancelEventArgs e)
+        {
+            if (!Employee.isValidPhone(TB_Phone.Text))
+            {
+                e.Cancel = true;
+                EP_VerifyPhone.SetError(TB_Phone, "Invalid phone number.");
+            }
+        }
+
+        private void TB_PostalCode_Validating(object sender, CancelEventArgs e)
+        {
+            if (!Adress.verifyPostalCode(TB_PostalCode.Text))
+            {
+                e.Cancel = true;
+                EP_VerifyPostalCode.SetError(TB_PostalCode, "Invalid postal code.");
+            }
+        }
+
+        private void EmployeeForm_FormClosed(object sender, FormClosedEventArgs e)
+        {
+
         }
     }
 }

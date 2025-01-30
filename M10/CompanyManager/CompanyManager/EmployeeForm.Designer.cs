@@ -60,10 +60,16 @@
             TB_ProjectAnalyst = new TextBox();
             LB_12 = new Label();
             EP_VerifyName = new ErrorProvider(components);
+            EP_VerifyEmail = new ErrorProvider(components);
+            EP_VerifyPhone = new ErrorProvider(components);
+            EP_VerifyPostalCode = new ErrorProvider(components);
             GB_Address.SuspendLayout();
             P_Programmer.SuspendLayout();
             P_Analyst.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)EP_VerifyName).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)EP_VerifyEmail).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)EP_VerifyPhone).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)EP_VerifyPostalCode).BeginInit();
             SuspendLayout();
             // 
             // CB_Role
@@ -119,6 +125,7 @@
             TB_Email.Name = "TB_Email";
             TB_Email.Size = new Size(200, 23);
             TB_Email.TabIndex = 5;
+            TB_Email.Validating += TB_Email_Validating;
             // 
             // LB_04
             // 
@@ -136,6 +143,7 @@
             TB_Phone.Name = "TB_Phone";
             TB_Phone.Size = new Size(200, 23);
             TB_Phone.TabIndex = 7;
+            TB_Phone.Validating += TB_Phone_Validating;
             // 
             // LB_05
             // 
@@ -216,6 +224,7 @@
             TB_PostalCode.Name = "TB_PostalCode";
             TB_PostalCode.Size = new Size(147, 23);
             TB_PostalCode.TabIndex = 15;
+            TB_PostalCode.Validating += TB_PostalCode_Validating;
             // 
             // TB_Door
             // 
@@ -345,6 +354,18 @@
             // 
             EP_VerifyName.ContainerControl = this;
             // 
+            // EP_VerifyEmail
+            // 
+            EP_VerifyEmail.ContainerControl = this;
+            // 
+            // EP_VerifyPhone
+            // 
+            EP_VerifyPhone.ContainerControl = this;
+            // 
+            // EP_VerifyPostalCode
+            // 
+            EP_VerifyPostalCode.ContainerControl = this;
+            // 
             // EmployeeForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -370,6 +391,7 @@
             Controls.Add(CB_Role);
             Name = "EmployeeForm";
             Text = "EmployeeForm";
+            FormClosed += EmployeeForm_FormClosed;
             Load += EmployeeForm_Load;
             GB_Address.ResumeLayout(false);
             GB_Address.PerformLayout();
@@ -378,6 +400,9 @@
             P_Analyst.ResumeLayout(false);
             P_Analyst.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)EP_VerifyName).EndInit();
+            ((System.ComponentModel.ISupportInitialize)EP_VerifyEmail).EndInit();
+            ((System.ComponentModel.ISupportInitialize)EP_VerifyPhone).EndInit();
+            ((System.ComponentModel.ISupportInitialize)EP_VerifyPostalCode).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -416,5 +441,8 @@
         private Button BT_Cancel;
         private System.Windows.Forms.Button BT_Ok;
         private ErrorProvider EP_VerifyName;
+        private ErrorProvider EP_VerifyEmail;
+        private ErrorProvider EP_VerifyPhone;
+        private ErrorProvider EP_VerifyPostalCode;
     }
 }

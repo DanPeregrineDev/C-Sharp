@@ -67,6 +67,8 @@ namespace EventManager
                 return -1;
 
             return ParticipantsList.Count;
-        } 
+        }
+
+
     }
 }

@@ -48,13 +48,12 @@ namespace EventManager
         {
             bool valid = true;
 
-            try
-            {
-                MailAddress aux = new MailAddress(email);
-            }
-            catch (Exception)
+            if (email.Length == 0)
             {
                 valid = false;
+            } else
+            {
+                valid = true;
             }
 
             return valid;

@@ -29,28 +29,28 @@ partial class CompanyManager
     /// </summary>
     private void InitializeComponent()
     {
-        DG_01 = new System.Windows.Forms.DataGridView();
-        BT_ViewEdit = new System.Windows.Forms.Button();
-        BT_New = new System.Windows.Forms.Button();
-        BT_Remove = new System.Windows.Forms.Button();
-        BT_Exit = new System.Windows.Forms.Button();
+        DG_01 = new DataGridView();
+        BT_ViewEdit = new Button();
+        BT_New = new Button();
+        BT_Remove = new Button();
+        BT_Exit = new Button();
         ((System.ComponentModel.ISupportInitialize)DG_01).BeginInit();
         SuspendLayout();
         // 
         // DG_01
         // 
-        DG_01.BackgroundColor = System.Drawing.SystemColors.ControlLight;
-        DG_01.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-        DG_01.Location = new System.Drawing.Point(12, 12);
+        DG_01.BackgroundColor = SystemColors.ControlLight;
+        DG_01.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+        DG_01.Location = new Point(12, 12);
         DG_01.Name = "DG_01";
-        DG_01.Size = new System.Drawing.Size(828, 449);
+        DG_01.Size = new Size(828, 449);
         DG_01.TabIndex = 0;
         // 
         // BT_ViewEdit
         // 
-        BT_ViewEdit.Location = new System.Drawing.Point(846, 12);
+        BT_ViewEdit.Location = new Point(846, 12);
         BT_ViewEdit.Name = "BT_ViewEdit";
-        BT_ViewEdit.Size = new System.Drawing.Size(150, 30);
+        BT_ViewEdit.Size = new Size(150, 30);
         BT_ViewEdit.TabIndex = 1;
         BT_ViewEdit.Text = "View Edit";
         BT_ViewEdit.UseVisualStyleBackColor = true;
@@ -58,9 +58,9 @@ partial class CompanyManager
         // 
         // BT_New
         // 
-        BT_New.Location = new System.Drawing.Point(846, 48);
+        BT_New.Location = new Point(846, 48);
         BT_New.Name = "BT_New";
-        BT_New.Size = new System.Drawing.Size(150, 30);
+        BT_New.Size = new Size(150, 30);
         BT_New.TabIndex = 2;
         BT_New.Text = "New";
         BT_New.UseVisualStyleBackColor = true;
@@ -68,9 +68,9 @@ partial class CompanyManager
         // 
         // BT_Remove
         // 
-        BT_Remove.Location = new System.Drawing.Point(846, 84);
+        BT_Remove.Location = new Point(846, 84);
         BT_Remove.Name = "BT_Remove";
-        BT_Remove.Size = new System.Drawing.Size(150, 30);
+        BT_Remove.Size = new Size(150, 30);
         BT_Remove.TabIndex = 3;
         BT_Remove.Text = "Remove";
         BT_Remove.UseVisualStyleBackColor = true;
@@ -78,9 +78,9 @@ partial class CompanyManager
         // 
         // BT_Exit
         // 
-        BT_Exit.Location = new System.Drawing.Point(846, 431);
+        BT_Exit.Location = new Point(846, 431);
         BT_Exit.Name = "BT_Exit";
-        BT_Exit.Size = new System.Drawing.Size(150, 30);
+        BT_Exit.Size = new Size(150, 30);
         BT_Exit.TabIndex = 4;
         BT_Exit.Text = "Exit";
         BT_Exit.UseVisualStyleBackColor = true;
@@ -88,18 +88,20 @@ partial class CompanyManager
         // 
         // CompanyManager
         // 
-        AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-        AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-        ClientSize = new System.Drawing.Size(1008, 473);
+        AutoScaleDimensions = new SizeF(7F, 15F);
+        AutoScaleMode = AutoScaleMode.Font;
+        ClientSize = new Size(1008, 473);
         Controls.Add(BT_Exit);
         Controls.Add(BT_Remove);
         Controls.Add(BT_New);
         Controls.Add(BT_ViewEdit);
         Controls.Add(DG_01);
-        FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+        FormBorderStyle = FormBorderStyle.FixedSingle;
         MaximizeBox = false;
+        Name = "CompanyManager";
         ShowIcon = false;
         Text = "Company Manager";
+        FormClosed += CompanyManager_FormClosed;
         Load += CompanyManager_Load;
         ((System.ComponentModel.ISupportInitialize)DG_01).EndInit();
         ResumeLayout(false);

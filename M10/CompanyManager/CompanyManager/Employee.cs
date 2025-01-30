@@ -7,6 +7,9 @@ namespace CompanyManager;
 public class Employee
 {
     // Atributes
+
+    public static string filePath;
+
     private static int autoId;
     
     protected int ID;
